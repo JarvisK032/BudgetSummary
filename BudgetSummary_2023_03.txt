@@ -1,9 +1,0 @@
-Summary Information:
-Total Income:	1200
-Total Expense:	1000
-Net Income:	200
-Most Expensive Expense:	1000	Rent
-
-Transaction Date	Amount	Type	Description
-03/04/2023	1000	Expense	Rent
-03/04/2023	1200	Income	Salary
