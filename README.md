@@ -18,8 +18,6 @@ I used Visual Studio Code and C++ to code.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 - [C++ Tutorial](https://www.w3schools.com/cpp/)
 - [Learn C++](https://www.learncpp.com/)
 
